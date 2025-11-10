@@ -12,7 +12,7 @@ Hands-on experience in building **web applications**, **REST APIs**, and **deskt
 - **Frameworks:** Django, Django REST Framework (DRF), Flask, wxPython  
 - **Packaging & Deployment:** PyInstaller, Inno Setup, Docker  
 - **Web Servers:** Nginx, Gunicorn  
-- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 - **Tools & Platforms:** GitHub Actions, PyPI, TestPyPI  
 - **Testing:** Pytest, Coverage  
 
